@@ -2,7 +2,7 @@
 
 En esta ocasión creamos un video juego simple conocido en México como gato y tic-tac-toe en inglés para niños en edad preescolar, por lo que el diseño está hecho para que  puedan utilizarlo sin necesidad de instrucciones y con una interfaz llamativa.
 
-![Tic-Tac-Toe](./src/assets/tic-tac.png)
+![Tic-Tac-Toe](https://github.com/lore0223/CDMX007-TIC-TAC-TOE-RN/blob/master/game/src/assets/tic-tac.PNG)
 
 ### Mis herramientas:
 
@@ -17,7 +17,7 @@ En esta ocasión creamos un video juego simple conocido en México como gato y t
 
 Descarga la app para android PlayGround y Native Script preview. Abre Playground y scanea el siguiente código QR. 
 
-![Código Qr](./src/assets/codigoQR.png)
+![Código Qr](https://github.com/lore0223/CDMX007-TIC-TAC-TOE-RN/blob/master/game/src/assets/codigoQR.PNG)
 
 
 
