@@ -1,0 +1,9 @@
+<ActionBar title="Game-Over" class="action-bar"></ActionBar>
+<GridLayout class="page">
+    <StackLayout>
+           
+          <label  class="you-win" [text]="this.gameService.win"></label>
+        <button class="go-out" [nsRouterLink]="['/items']" text="Salir"></button>
+        <button class="play-again"[nsRouterLink]="['/item']" text="Volver a jugar"></button>
+    </StackLayout>
+</GridLayout>

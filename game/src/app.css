@@ -1,0 +1,71 @@
+/*
+In NativeScript, the app.css file is where you place CSS rules that
+you would like to apply to your entire application. Check out
+http://docs.nativescript.org/ui/styling for a full list of the CSS
+selectors and properties you can use to style UI components.
+
+/*
+In many cases you may want to use the NativeScript core theme instead
+of writing your own CSS rules. For a full list of class names in the theme
+refer to http://docs.nativescript.org/ui/theme.
+*/
+/* @import '~nativescript-theme-core/css/sky.css'; */
+
+button{
+    background-color: rgb(64, 100, 172);
+    color: whitesmoke;
+    width: 60%;
+    border-radius: 20%;
+    font-size: 35;
+}
+
+.initial-page{
+    background-image: url('~/assets/betoenrique.png');
+    background-repeat: no-repeat;
+    opacity:0.8;
+    height: 60%;
+    margin-top: 10%;
+    margin-left: 5%;
+    border-radius: 5%; 
+}
+
+StackLayout{    
+background: #F2AB27;
+}
+
+.button-tic{
+    background-color:#F2AB27;
+    margin:0;
+    border-radius: 0%;
+    border: solid 2px  black;
+    color: black;
+}
+
+action-bar{
+    background: #BF2626;
+    color: #F2AB27;
+}
+
+.game-board{
+    background:#2A51A0;
+}
+
+.play-again{
+    margin-top: 25% ;
+}
+
+.go-out{
+    margin-top: 20%;
+}
+
+.you-win{
+    color: white;
+    font-size: 35;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.turn {
+    font-size: 25;
+    color : white;
+}
